@@ -39,7 +39,7 @@
 
 ## Research Idea
 
-- Head Engineering; 7alageen
+- Head Engineering; Juno Hair,  7alageen
 
 
 

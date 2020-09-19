@@ -20,7 +20,7 @@
 
 4. Download Papago
 
-   a good translator for korean language
+   a good translator for Korean language
 
 5. Buy t-money at airport
 
@@ -60,7 +60,9 @@
 
 16. If you're here for a short period (less than 3 months), abuse Tax refund
 
-17. Free Wifi is almost everywhere in SK and it is fast
+17. Free WIFI is almost everywhere in SK and it is fast
+
+18. Electronic money options, once ARC is established, opening a bank account and linking with e-money options is the best
 
 
 
@@ -72,3 +74,4 @@
 - Contacts
 - Make a post
 - rating and comments
+- 

@@ -7,25 +7,47 @@
 - [ ] [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck) 
 - [ ] Build a Simple Mobile App
 
-
-
-adonis make:migration members            --Rename later
-adonis make:migration posts
-adonis make:migration categories
-adonis make:migration config
-adonis make:migration comments
-adonis make:migration reports            -- Maybe split, for comments and posts
-adonis make:migration likes
-adonis make:migration pages
-
-adonis make:model Post -mc
-adonis make:model Category -mc
-adonis make:model Comment -mc
-adonis make:model Page -mc
-
 # Biographies
 
 ------
+
+
+
+**Description**
+
+I'm Mohannad Otaibi, from Abqaiq, Saudi Arabia. KFUPM graduate 😏. Currently working as a Business Administrator in a major Company of the Kingdom. I am interested in Programming, APIs, web-development, UX, and other things.
+
+
+
+**Schedule**
+
+Don't have a fixed schedule for streaming due to work reasons, but I will announce here and in my twitter account, make sure to follow, I don't tweet bulls*it.
+
+
+
+**Language**
+
+I speak English and Arabic, but my streams will be mostly in Arabic.
+
+
+
+**Machine Languages**
+
+Java, PHP, C#, VB, SQL, Bash, PS, Perl, javascripthtmlcss (i feel they are one), recently learning Python.
+
+
+
+**Links**
+
+Twitch channel: https://bufai7an.live/
+
+GitHub: https://github.com/mo9a7i
+
+Twitter: https://twitter.com/BuFai7an
+
+Personal website: https://mohannadotaibi.com
+
+
 
 
 
