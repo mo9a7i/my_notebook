@@ -85,6 +85,24 @@ You’ll need to authorise the target to connect to you (command also run on you
 - wordpress plugin
 - backconnect
 
+```json
+      ['http://www.c99shellphp.com/shell/angel.txt',
+			'http://www.c99shellphp.com/shell/r57.txt',
+			'http://www.c99shellphp.com/shell/c100.txt',
+			'http://www.c99shellphp.com/shell/kacak.txt',
+			'http://www.c99shellphp.com/shell/symlink.txt',
+			'http://www.c99shellphp.com/shell/h4cker.tr.txt',
+			'http://www.c99shellphp.com/shell/bv7binary.txt',
+			'http://www.c99shellphp.com/shell/webadmin.txt',
+			'http://www.c99shellphp.com/shell/gazashell.txt',
+			'http://www.c99shellphp.com/shell/locus7shell.txt',
+			'http://www.c99shellphp.com/shell/ernebypass.txt',
+			'http://www.c99shellphp.com/shell/g6shell.txt',
+			'http://www.c99shellphp.com/shell/uploadshell_hima.txt',
+			'http://www.c99shellphp.com/shell/wsoshell.txt',
+			'http://www.c99shellphp.com/shell/commandshell.txt']
+```
+
 ## Perl
 - cgi script
 - cgi backconnect
