@@ -1,18 +1,19 @@
 # Access Control Systems
 
-## Known Brands:
+## Known Brands
 
 1. Honeywell
+
+## Frequencies
+
+- 125khz    EM4100
+- 13.56 MHz
 
 ## Tech
 
 1. network access control systems
 
-
-
 https://www.orvibo.com/en/product/c1/index.html
-
-
 
 ## Looking for features
 
@@ -21,16 +22,13 @@ https://www.orvibo.com/en/product/c1/index.html
 3. Backup Key Option
 4. Keypad
 5. Server-Based Systems
-6. Wi-Fi ``Not Necessary`` 
+6. Wi-Fi ``Not Necessary``
 7. Keytag NFC
-8. 
-
-
 
 ## Components
 
-1. access controller `panel` 
-   1. IP Controllers 
+1. access controller `panel`
+   1. IP Controllers
    2. access control system management software
       1. Time based access
       2. temporary access
@@ -48,18 +46,14 @@ https://www.orvibo.com/en/product/c1/index.html
 6. access control power supply
 7. door closers
 
-
-
 ## Found Links
 
-1. https://getsafeandsound.com/blog/access-control-installation/
-2. [https://time-logix.com/products/proximity-card-rfid-employee-time-clock?utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&gclid=Cj0KCQjwp4j6BRCRARIsAGq4yMGB4fxmmtysCcT66SpzwFtGbJbNDsEFefpIhvpTNAmIUrlZ3m0grl4aAivGEALw_wcB](https://time-logix.com/products/proximity-card-rfid-employee-time-clock?utm_medium=cpc&utm_source=google&utm_campaign=Google Shopping&gclid=Cj0KCQjwp4j6BRCRARIsAGq4yMGB4fxmmtysCcT66SpzwFtGbJbNDsEFefpIhvpTNAmIUrlZ3m0grl4aAivGEALw_wcB)
-3. https://shineacs.com/door-access-control-system-configuration-guide/
-4. https://www.getkisi.com/
-5. https://www.openpath.com/ :star:
-6. https://www.larnitech.com/products/
-
-
+1. <https://getsafeandsound.com/blog/access-control-installation/>
+2. [https://time-logix.com/products/proximity-card-rfid-employee-time-clock?utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&gclid=Cj0KCQjwp4j6BRCRARIsAGq4yMGB4fxmmtysCcT66SpzwFtGbJbNDsEFefpIhvpTNAmIUrlZ3m0grl4aAivGEALw_wcB]("https://time-logix.com/products proximity-card-rfid-employee-time-clock?utm_medium=cpc&utm_source=google&utm_campaign=Google Shopping&gclid=Cj0KCQjwp4j6BRCRARIsAGq4yMGB4fxmmtysCcT66SpzwFtGbJbNDsEFefpIhvpTNAmIUrlZ3m0grl4aAivGEALw_wcB")
+3. <https://shineacs.com/door-access-control-system-configuration-guide/>
+4. <https://www.getkisi.com/>
+5. <https://www.openpath.com/> :star:
+6. <https://www.larnitech.com/products/>
 
 ## Topologies
 
@@ -73,3 +67,45 @@ https://www.orvibo.com/en/product/c1/index.html
 
 
 
+
+
+
+ 
+
+<https://www.samsungdigitallife.com/samsung-digital-door-locks/>
+
+ 
+
+Magentic Card
+
+RFID Card
+
+RFID Key Fob
+
+Mobile Phone NFC
+
+Mobile Phone Bluetooth
+
+Password
+
+Temporary Password
+
+No Battery, Electrical Supply. if battery, need regular replacement.
+
+Best Keyless Electronic Door Locks
+
+<https://www.samsungdigitallife.com/samsung-digital-door-locks/shp-ds510/>
+
+<https://www.samsungdigitallife.com/samsung-digital-door-locks/shp-ds705/>
+
+ 
+
+<https://www.samsungdigitallife.com/accessories/rftag/>
+
+ 
+
+ 
+
+RFID Tag similar to Samsung
+
+<https://www.postscapes.com/smart-lock/august-3rd-gen-pro-review/>
